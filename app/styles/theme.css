@@ -78,11 +78,11 @@
 
   /* rounded */
   --oui-rounded-sm: 2px;
-  --oui-rounded: 24px;
-  --oui-rounded-md: 23px;
-  --oui-rounded-lg: 16px;
-  --oui-rounded-xl: 16px;
-  --oui-rounded-2xl: 16px;
+  --oui-rounded: 18px;
+  --oui-rounded-md: 18px;
+  --oui-rounded-lg: 18px;
+  --oui-rounded-xl: 18px;
+  --oui-rounded-2xl: 18px;
   --oui-rounded-full: 9999px;
 
   /* spacing */
